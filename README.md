@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zelyeb
 - 👀 I’m interested in digital forensics, accessibility, and UXID research.
-- 🌱 I’m currently learning DNS security priniciples and securing wireless networks.
+- 🌱 I’m currently learning DNS security principles and securing wireless networks.
 - 💞️ I’m looking to collaborate on any project focused on UXID and application development.
 
 <!---
